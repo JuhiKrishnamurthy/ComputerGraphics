@@ -1,0 +1,1 @@
+g++ CG_Game.cpp -framework GLUT -framework OpenGL
